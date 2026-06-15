@@ -1,6 +1,4 @@
-//Họ và tên: Kiều Anh Bằng
-//Mssv: 202418848
-//Date: 11-03-2026
+
 import java.util.Scanner;
 
 public class VeCayThong {
